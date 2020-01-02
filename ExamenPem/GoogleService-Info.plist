@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>689716975458-rr7dfk610t1ijgcoarv2qc95fs6gf8ei.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.689716975458-rr7dfk610t1ijgcoarv2qc95fs6gf8ei</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDugzwh7OSn5-ibGH9Y4fCDGsYv8g5FgtM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>689716975458</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>es.ulpgc.romero101.dayron.ExamenPem</string>
+	<key>PROJECT_ID</key>
+	<string>examenpem-5798d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>examenpem-5798d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:689716975458:ios:7658eda3b539f4c669fe3b</string>
+	<key>DATABASE_URL</key>
+	<string>https://examenpem-5798d.firebaseio.com</string>
+</dict>
+</plist>
